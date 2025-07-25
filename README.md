@@ -18,8 +18,9 @@ bike-sharing-prediction/
 ├── models/
 │ └── best_model.h5 # 训练好的模型权重
 ├── logs/ # TensorBoard日志
-├── images/ # 可视化结果图片
 ├── 08_TensorFlow2.0_基于LSTM注意力机制实现多变量预测_共享单车使用量预测.py # 主代码文件
+├──report/
+    └── Project_Report.pdf    # 项目报告
 └── README.md # 项目说明
 依赖环境
 Python 3.7+
